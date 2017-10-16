@@ -9,7 +9,7 @@ Here's your starter code: [popcode starter code](https://popcode.org/?snapshot=0
 | #  | Name | Challenge | Example |
 |:-------:|:-------:|------|------|
 | 1 | jQuery | There's an error on the page.  What do we need to do before we can use jQuery? | <img src="https://i.imgur.com/NIC0HKc.png">
-| 2 | Boo | There's a click handler for the Boo button, but the alert is commented out.  Uncomment the alert so clicking the Boo button causes the alert "Boo". | <video height="300px" src="https://i.imgur.com/ipTkLde.mp4" autoplay loop> |
+| 2 | Boo | There's a click handler for the Boo button, but the alert is commented out.  Uncomment the alert so clicking the Boo button causes the alert "Boo". | <video height="300px" src="https://i.imgur.com/ipTkLde.mp4" autoplay loop></video> |
 | 3 | Show | Make it so clicking the "Show" button causes the image with the class "it-gif" to be visible.  You'll want to use the jQuery show method. | <video height="300px" src="https://i.imgur.com/MqgZwno.mp4" autoplay loop> |
 | 4 | Hide |Make it so clicking the "Hide" button causes the image with the class "it-gif" to be hidden.  You'll want to use the jQuery hide method.  | <video height="300px" src="https://i.imgur.com/svzHpWw.mp4" autoplay loop> |
 | 5 | Toggle | Make it so clicking the "Toggle" button causes the image with the class "it-gif" to switch between being visible and hidden.  You'll want to use the jQuery toggle method. | <video height="300px" src="https://i.imgur.com/2SXjudT.mp4" autoplay loop> |
