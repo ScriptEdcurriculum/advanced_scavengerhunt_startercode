@@ -10,7 +10,7 @@ Here's your starter code: [popcode starter code](https://popcode.org/?snapshot=0
 |:-------:|:-------:|------|------|
 | 1 | jQuery | There's an error on the page.  What do we need to do before we can use jQuery? | <img src="https://i.imgur.com/NIC0HKc.png">
 | 2 | Boo | There's a click handler for the Boo button, but the alert is commented out.  Uncomment the alert so clicking the Boo button causes the alert "Boo". | <img src="https://i.imgur.com/ipTkLde.gif"> |
-| 3 | Show | Make it so clicking the "Show" button causes the image with the class "it-gif" to be visible.  You'll want to use the jQuery show method. | <img src="https://i.imgur.com/MqgZwno.gif"> |
+| 3 | Show | Make it so clicking the "Show" button causes the image with the class "it-gif" to be visible.  You'll want to use the jQuery show method. | <a href="https://i.imgur.com/MqgZwno">Example</a> |
 | 4 | Hide |Make it so clicking the "Hide" button causes the image with the class "it-gif" to be hidden.  You'll want to use the jQuery hide method.  | <img src="https://i.imgur.com/svzHpWw.gif"> |
 | 5 | Toggle | Make it so clicking the "Toggle" button causes the image with the class "it-gif" to switch between being visible and hidden.  You'll want to use the jQuery toggle method. | <img src="https://i.imgur.com/2SXjudT.gif"> |
 | 6 | Text | Make it so clicking the "Text" button causes all the button elements to have the text "Boo" (or whatever text you'd like).  You'll want to use the jQuery text method. | <img src="https://i.imgur.com/RIkwoKt.gif"> |
