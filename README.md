@@ -1,4 +1,4 @@
-# Halloween Javascript Challenges
+# Halloween JavaScript Challenges
 
 
 These challenges can be completed in [cloud9](https://c9.io/) or [popcode](https://popcode.org). Use Google or your [reference table](https://github.com/ScriptEdcurriculum/curriculum2016/blob/master/resources/ScriptEdReferenceTable2016.pdf) for guidance!
